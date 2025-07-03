@@ -29,6 +29,7 @@ a {
 }
 
 .topbar {
+  display: none;
   position: relative;
   z-index: 12;
   background: var(--c-topbar-bg);
